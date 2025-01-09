@@ -57,6 +57,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-h-badhon&show_icons=true&locale=en" alt="tanvir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-h-badhon&" alt="tanvir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-h-badhon&" alt="tanvir" /></p>
