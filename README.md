@@ -53,6 +53,9 @@
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 
+
+## Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-h-badhon&show_icons=true&locale=en&layout=compact" alt="tanvir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-h-badhon&show_icons=true&locale=en" alt="tanvir" /></p>
