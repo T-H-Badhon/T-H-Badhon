@@ -55,7 +55,7 @@
 
 ## Top Projects
 
-<a href="https://www.linkedin.com/in/md-tanvir-hasan-48a4362a8/" target="blank"><img align="center"  height="30" width="40" />Ayvaz</a>
+<a href="https://www.linkedin.com/in/md-tanvir-hasan-48a4362a8/" target="blank">Ayvaz</a>
 
 ## Stats
 
